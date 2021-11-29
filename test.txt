@@ -6,3 +6,5 @@ Adding new line in dev branch.
 Name:
 Address:
 Exp:This shows how much exp youhave
+DOB
+Time
